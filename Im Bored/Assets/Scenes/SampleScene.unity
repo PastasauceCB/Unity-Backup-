@@ -4017,8 +4017,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cd82f8304a6c8df4098637dcbf424bac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoretext: {fileID: 0}
-  scorerext: {fileID: 0}
+  scoretext: {fileID: 112385259}
+  scorerext: {fileID: 112385259}
 --- !u!1001 &1352483578
 Prefab:
   m_ObjectHideFlags: 0
